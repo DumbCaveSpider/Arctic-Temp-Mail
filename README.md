@@ -18,6 +18,14 @@ Well, don't ask because this bot can:
 - Allow you to download the raw email file like the HTML format and attachments
 and bake you a burnt cake for you (oh wait ignore that part...)
 
+**What's coming soon?**
+- Mail Tag Filtering. This so you don't have to deal with overflowing emails and unable to find your email. (This will be added if a lot of people uses this bot)
+- HTML Email View. This is useful since you actually need to download the email in order to view the whole thing which is stupid and dumb idea.
+- Customizable Email Address. Well I really want this to happened but I can't find an API other than the one I'm using right now.
+- Extended Email Information. The API I have has WAY more info than the one I use, it has like  CC emails, Embedded Attachments and much more.
+- Spam Detection. This so the bot can detect is if is a spam or not.
+- Automatic New Email. If the bot received a new email, the bot will go to the linked channel and shows it there without having to do anything. Useful for just making Discord your default mail service xD.
+
 I use [testmail.app](https://testmail.app/) to sent all the API into the bot so everybody who has this bot in their server can publicly see it.
 
 To add this to your bot, change the Discord Bot Token at [setting.json](https://github.com/DumbCaveSpider/Arctic-Temp-Mail/blob/main/data/settings.json)
